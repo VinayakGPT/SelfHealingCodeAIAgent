@@ -158,10 +158,8 @@ This system forms the foundation for building sophisticated self-healing systems
 ---
 
 ## Acknowledgments
-This project leverages:
+This project builds upon the original concepts introduced by Nir Diamant and leverages::
 - [LangGraph](https://github.com/langgraph)
 - [ChromaDB](https://chromadb.com)
 - [OpenAI GPT](https://openai.com)
-
-Feel free to contribute and provide feedback!
 
