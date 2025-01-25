@@ -113,8 +113,8 @@ A vector database specializes in handling high-dimensional vectors, capturing se
 
 ---
 
-## Visual Overview
-This system uses a graph-based design for orchestrating workflows, from error detection to runtime fixes. (Add flowchart or system diagram here.)
+## Overview
+This system uses a graph-based design for orchestrating workflows, from error detection to runtime fixes. 
 
 ---
 
@@ -140,7 +140,7 @@ This system forms the foundation for building sophisticated self-healing systems
 ## How to Get Started
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/VinayakGPT/SelfHealingCodeAIAgent
    ```
 
 2. Install dependencies:
